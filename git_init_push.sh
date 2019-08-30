@@ -1,6 +1,6 @@
-echo "Enter directory="
+echo "Enter directory"
 read directory
-echo "Enter remote origin"
+echo "Enter remote origin" 
 read rorigin 
 cd $directory
 git init
