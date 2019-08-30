@@ -1,4 +1,4 @@
-cd wdir
+cdir
 pwd
 git add .
 git commit -m "changes"
