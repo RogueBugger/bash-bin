@@ -1,2 +1,2 @@
-cd 
+cd /home/naruto/Downloads/
 pwd
