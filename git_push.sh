@@ -1,6 +1,5 @@
-echo "commit message"
-read message
+echo "initializing commit"
 git add .
-git commit -m "new changes"
+git commit -m "minor changes"
 git push -u origin master
 
