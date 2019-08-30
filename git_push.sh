@@ -1,6 +1,6 @@
-cdir
-pwd
+echo "commit message"
+read message
 git add .
-git commit -m "changes"
+git commit -m "new changes"
 git push -u origin master
 
